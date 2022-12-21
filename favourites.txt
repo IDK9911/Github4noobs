@@ -1,3 +1,9 @@
+Food:
 Dal ghost
 biryani
 paneer sabzi and rice
+=======
+Movies:
+Jujitsu Kaisen:Zero
+Avatar
+Deadpool 3
